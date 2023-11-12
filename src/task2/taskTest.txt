@@ -1,0 +1,15 @@
+Cоздать приложение для конвертации валют. Минимальные требования по валютам:
+ -долларов
+ -евро;
+ -фунт стерлинг;
+ -йена.
+Протестируйте все возможные приложение с использованием JUnit.
+
+
+Create an application for currency conversion. Minimum currency requirements:
+- dollars
+-euro;
+-pound sterling;
+- Ian.
+Test all possible applications using JUnit.
+

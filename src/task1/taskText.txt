@@ -1,0 +1,12 @@
+Создайте приложение для подсчета площади геометрических фигур. Минимальные требования по фигурам:
+ -треугольник;
+ -квадрат;
+ -ромб.
+Протестируйте все возможности приложения использования JUnit.
+
+
+Create an application for calculating the area of geometric shapes. Minimum requirements for figures:
+-triangle;
+-square;
+- rhombus.
+Test all features of the application using JUnit.

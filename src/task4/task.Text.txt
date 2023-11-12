@@ -1,0 +1,18 @@
+Создайте приложение для перевода значений в различные величины измерения.
+Минимальные требования по функциональности:
+ - миллиметры;
+-  сантиметры
+-  дециметры;
+-  метры;
+-  километры.
+Протестируйте все возможности приложения с использованием JUnit.
+
+
+
+Create an application to translate values into different measurement values. Minimum functionality requirements:
+- millimeters;
+- centimeters
+- decimeters;
+- meters;
+- kilometers.
+Test all the features of the application using JUnit.

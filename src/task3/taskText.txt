@@ -1,0 +1,15 @@
+Создайте приложение для работы со строками. Минимальные требования по функциональности:
+ - проверка строки на палиндром
+-  проверка количества гласных
+-  проверка количества согласных
+-  количество вхождений слов строку
+Протестируйте все возможности приложения с использованием JUnit.
+
+
+
+Create an application for working with strings. Minimum functionality requirements:
+- checking a string for a palindrome
+- checking the number of vowels
+- checking the number of consonants
+- the number of occurrences of words in a string
+Test all the features of the application using JUnit.
