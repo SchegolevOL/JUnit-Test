@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c230227e-e4f3-4692-af4b-9c55f2a6784b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task5/WeightTranslate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task5/WeightTranslateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task5/taskText.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2XsNuP3JKmAdJUK7O8fYsWI0O7C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "C:/Java Project/JUnit-Test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="task5" />
+      <recent name="task4" />
+      <recent name="task3" />
+      <recent name="task2" />
+      <recent name="task1.test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WeightTranslateTest.conversionTonsToGrams1TonsToGrams">
+    <configuration name="WeightTranslateTest.conversionGramsToHundredweight10200GramsToHundredweight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit-Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="task5" />
+      <option name="MAIN_CLASS_NAME" value="task5.WeightTranslateTest" />
+      <option name="METHOD_NAME" value="conversionGramsToHundredweight10200GramsToHundredweight" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeightTranslateTest.conversionGramsToTons1000_000GramsToTons" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit-Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="task5" />
+      <option name="MAIN_CLASS_NAME" value="task5.WeightTranslateTest" />
+      <option name="METHOD_NAME" value="conversionGramsToTons1000_000GramsToTons" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeightTranslateTest.conversionHundredweightToGrams1HundredweightToGrams" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit-Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="task5" />
+      <option name="MAIN_CLASS_NAME" value="task5.WeightTranslateTest" />
+      <option name="METHOD_NAME" value="conversionHundredweightToGrams1HundredweightToGrams" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeightTranslateTest.conversionKilogramsToGrams2KilogramsToGrams" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit-Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="task5" />
+      <option name="MAIN_CLASS_NAME" value="task5.WeightTranslateTest" />
+      <option name="METHOD_NAME" value="conversionKilogramsToGrams2KilogramsToGrams" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeightTranslateTest.conversionTonsToGrams1TonsToGrams" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit-Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="task5" />
+      <option name="MAIN_CLASS_NAME" value="task5.WeightTranslateTest" />
+      <option name="METHOD_NAME" value="conversionTonsToGrams1TonsToGrams" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WeightTranslateTest.conversionTonsToGrams1TonsToGrams" />
+        <item itemvalue="JUnit.WeightTranslateTest.conversionHundredweightToGrams1HundredweightToGrams" />
+        <item itemvalue="JUnit.WeightTranslateTest.conversionKilogramsToGrams2KilogramsToGrams" />
+        <item itemvalue="JUnit.WeightTranslateTest.conversionGramsToTons1000_000GramsToTons" />
+        <item itemvalue="JUnit.WeightTranslateTest.conversionGramsToHundredweight10200GramsToHundredweight" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c230227e-e4f3-4692-af4b-9c55f2a6784b" name="Changes" comment="" />
+      <created>1699414050982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699414050982</updated>
+      <workItem from="1699414052009" duration="8321000" />
+      <workItem from="1699524956412" duration="3166000" />
+      <workItem from="1699530516432" duration="21000" />
+      <workItem from="1699542159973" duration="1444000" />
+      <workItem from="1699553021586" duration="363000" />
+      <workItem from="1699771563873" duration="9478000" />
+    </task>
+    <task id="LOCAL-00001" summary="task 1,2,3,4 done">
+      <option name="closed" value="true" />
+      <created>1699780391867</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699780391867</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task 1,2,3,4 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 1,2,3,4 done" />
+  </component>
+</project>

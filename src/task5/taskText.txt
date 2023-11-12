@@ -1,0 +1,16 @@
+Создайте приложение для перевода значение веса в различные величины измерения. Минимальные требования по функциональности:
+ - миллиграмм;
+ - грамм;
+ - килограмм;
+ - центнер;
+ - тонна.
+Протестируйте все возможности приложений с использованием JUnit.
+
+
+Create an application to translate the weight value into various measurement values. Minimum functionality requirements:
+- milligrams;
+- gram;
+- kilogram;
+- hundredweight;
+- a ton.
+Test all application features using JUnit.
